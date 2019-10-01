@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "469723888391",
+    "firebase_url": "https://belcaregistro.firebaseio.com",
+    "project_id": "belcaregistro",
+    "storage_bucket": "belcaregistro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469723888391:android:ee537c86a9292fa03fa3a2",
+        "android_client_info": {
+          "package_name": "com.belcafoodshow.belcafoodregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469723888391-kl3hl3k60o4674ko73it3i8j59lc5f52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp2LF4DCMDkCkdQnilPfppUJ6tbypA3Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469723888391-kl3hl3k60o4674ko73it3i8j59lc5f52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
